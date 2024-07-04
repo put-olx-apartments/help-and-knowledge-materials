@@ -23,7 +23,7 @@ https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn
 
 [The content of the dataset provided by OLX (data.zip)](https://docs.google.com/document/d/1L-y5C32-TJTc5_ETnHEbjj4xly6vgyUVXaDRNOaOYSQ/edit)
 
-11 * 4 h = 44 h
+9 * 4 h = 36 h
 
 OPTIONAL:
 
