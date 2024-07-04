@@ -9,13 +9,9 @@ https://app.datacamp.com/learn/courses/cleaning-data-in-python
 
 https://app.datacamp.com/learn/courses/writing-efficient-python-code
 
-https://app.datacamp.com/learn/courses/introduction-to-natural-language-processing-in-python
-
 https://app.datacamp.com/learn/courses/object-oriented-programming-in-python
 
 https://app.datacamp.com/learn/courses/software-engineering-principles-in-python
-
-https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-python
 
 https://app.datacamp.com/learn/courses/introduction-to-optimization-in-python
 
@@ -64,3 +60,9 @@ https://app.datacamp.com/learn/courses/python-for-spreadsheet-users
 https://app.datacamp.com/learn/courses/pandas-joins-for-spreadsheet-users
 
 16 * 4 h = 64 h
+
+OPTIONAL 2:
+
+https://app.datacamp.com/learn/courses/introduction-to-natural-language-processing-in-python
+
+https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-python
