@@ -1,6 +1,10 @@
 # help-and-knowledge-materials
 This repo contains all the knowledge and example materials that you may need for the project.
 
+COURSES  PROGRESS:
+
+https://docs.google.com/spreadsheets/d/1KsrigHIf4YTih62rMadTNV340Dw0Y_5wwJQDcurFYE0/edit?gid=0#gid=0
+
 MANDATORY:
 
 https://app.datacamp.com/learn/courses/image-processing-in-python
